@@ -1,4 +1,3 @@
-Understood. I have revised the repository description to strictly follow your formatting constraints by removing all quotation marks and hyphens.
 
 ### **Autonomous BI Research Agent: A Framework for Traceable Agency**
 **How do we safely transition from AI that talks to AI that acts**
