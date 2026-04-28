@@ -7,6 +7,7 @@ At its core this is an engineering framework designed to solve the Agency Drift 
 **This repository contains:**
 * The Orchestration Graph agent.py: A state based reasoning engine built with LangGraph that manages autonomous planning execution and self correction.
 * The Enterprise Data Context database.py: A simulated business intelligence environment featuring Synthetically Generated performance and churn datasets.
+* The Automated Documentation resume.py: A script used to programmatically generate and format professional researcher summaries while adhering to strict line count and character constraints.
 * Safety and Oversight Modules: Implementation of the Human in the Loop HITL persistence pattern to prevent autonomous errors in high stakes business tasks.
 
 ### **To Run This Framework**
@@ -24,6 +25,7 @@ autonomous-bi-agent/
 ├── README.md
 ├── agent.py            
 ├── database.py         
+├── resume.py           
 ├── .env                
 ├── requirements.txt    
 └── .devcontainer/
